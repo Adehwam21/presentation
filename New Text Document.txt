@@ -1,0 +1,5 @@
+ Today i learnt about version control systems.
+	types
+
+centralized version control systems
+deistributed version control systems
